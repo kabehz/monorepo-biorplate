@@ -1,0 +1,1 @@
+# Dockerfile para auth-service (NodeJS)

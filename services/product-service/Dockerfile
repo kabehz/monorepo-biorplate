@@ -1,0 +1,1 @@
+# Dockerfile para product-service (Spring Boot)

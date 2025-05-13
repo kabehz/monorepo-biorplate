@@ -1,0 +1,1 @@
+// Interfaces comunes entre servicios
